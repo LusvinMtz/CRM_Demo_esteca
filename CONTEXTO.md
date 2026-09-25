@@ -19,6 +19,7 @@ El colegio tiene tres **sedes**: **Sanarate** (El Progreso), **Salamá** (Baja V
 | Tema | Detalle |
 |---|---|
 | Carpeta | `colegio_esteca/` (antes `capacitaciones_el_progreso/`, renombrada el 2026-09-25) |
+| Repositorio | https://github.com/LusvinMtz/CRM_Demo_esteca (rama `main`) |
 | Backend y vistas | Laravel 12 + Blade (sin Angular, sin Node) |
 | Diseño | CSS de la plantilla Metronic compilado en `public/assets/css/style.bundle.css`, íconos Keenicons, Bootstrap 5 JS |
 | Base de datos | MySQL 8, base `colegio_esteca` (usuario root, contraseña en `.env`; la base anterior `capacitaciones_el_progreso` se conserva como respaldo) |
